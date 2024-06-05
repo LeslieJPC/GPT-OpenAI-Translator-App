@@ -164,4 +164,4 @@ Run the script by pressing F5.
 
 ## Helpful Hint
 
-Make sure that your Python environment includes the necessary packages (pyttsx3, speechrecognition) and that the frame0 directory with the required images (all .png files in this repo) is correctly placed in the project directory. You will need to use your own API Key for full functionality also, BE MINDFUL OF YOUR FILE PATH. This setup will help you run the corrected code smoothly in any of the mentioned IDEs.
+Make sure that your Python environment includes the necessary packages (pyttsx3, speechrecognition) and that the "frame0" directory with the required images (all .png files in this repo) is correctly placed in the project directory. You will need to use your own API Key for full functionality also, BE MINDFUL OF YOUR FILE PATH. This setup will help you run the corrected code smoothly in any of the mentioned IDEs.
