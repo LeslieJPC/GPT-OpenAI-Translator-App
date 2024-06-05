@@ -116,9 +116,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Feel free to reach out for any questions or contributions. Happy coding!
 
+##IDE Recommendations
+
 Here are some IDEs that are well-suited for this task:
 
-PyCharm:
+###PyCharm:
 
 PyCharm is a popular Python IDE with robust features for developing Python applications. It has excellent support for managing virtual environments and installing dependencies.
 How to run the code:
@@ -127,7 +129,8 @@ Copy the code into a new Python file (e.g., main.py).
 Ensure you have a virtual environment set up and install the required packages using pip install pyttsx3 speechrecognition.
 Place your frame0 directory with the image assets in the project directory.
 Run the script using the run button or Shift + F10.
-Visual Studio Code (VS Code):
+
+###Visual Studio Code (VS Code):
 
 VS Code is a versatile and lightweight code editor with excellent Python support through extensions.
 How to run the code:
@@ -137,8 +140,10 @@ Open the terminal in VS Code and create a virtual environment if you haven't alr
 Activate the virtual environment and install the required packages (pip install pyttsx3 speechrecognition).
 Ensure the frame0 directory with the image assets is in the workspace directory.
 Run the script by clicking the run button or using the integrated terminal (python main.py).
-Thonny:
 
+###Thonny:
+
+Thonny
 Thonny is a simple and beginner-friendly Python IDE that is great for small projects and learning Python.
 How to run the code:
 Open Thonny and create a new Python file.
@@ -146,7 +151,8 @@ Copy the code into the new file.
 Use Thonny's package manager to install the required packages (Tools > Manage packages and search for pyttsx3 and speechrecognition).
 Ensure the frame0 directory with the image assets is in the same directory as your script.
 Run the script by clicking the run button or pressing F5.
-IDLE:
+
+###IDLE:
 
 IDLE is Python's built-in IDE, which is simple and lightweight.
 How to run the code:
@@ -155,4 +161,7 @@ Copy the code into the new file.
 Save the file in a directory that includes the frame0 folder with the image assets.
 Use pip to install the required packages in your Python environment (pip install pyttsx3 speechrecognition).
 Run the script by pressing F5.
-Make sure that your Python environment includes the necessary packages (pyttsx3, speechrecognition) and that the frame0 directory with the required images is correctly placed in the project directory. This setup will help you run the corrected code smoothly in any of the mentioned IDEs.
+
+##Helpful Hint
+
+Make sure that your Python environment includes the necessary packages (pyttsx3, speechrecognition) and that the frame0 directory with the required images (all .png files in this repo) is correctly placed in the project directory. You will need to use your own API Key for full functionality also, BE MINDFUL OF YOUR FILE PATH. This setup will help you run the corrected code smoothly in any of the mentioned IDEs.
